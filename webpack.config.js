@@ -41,7 +41,8 @@ var config = {
         exclude: /node_modules/
       }
     ]
-  }
+  },
+  watch: true
 };
 
 module.exports = config;
